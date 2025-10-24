@@ -15,14 +15,26 @@ Email Me 👉 ✉️ **sparsh.agarwal0508@gmail.com** For Collaboration/Project 
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 🚀 My Coding Stats
 
-# 🧠 LeetCode Stats:
-![LeetCode Stats](https://leetcard.jacoblin.cool/Sparsh_Agarwal_0508?theme=dark&font=Abel&ext=contest)
+<div align="center">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sparsh0508&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sparsh0508&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sparsh0508&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<table>
+  <tr>
+    <td align="center">
+      <h3>🧠 LeetCode Stats</h3>
+      <img src="https://leetcard.jacoblin.cool/Sparsh_Agarwal_0508?theme=dark&font=Abel&ext=contest&radius=10&border=0" width="400" alt="LeetCode Stats" />
+    </td>
+    <td align="center">
+      <h3>📊 GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=Sparsh0508&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="400" alt="GitHub Stats" /><br/>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=Sparsh0508&theme=dark&hide_border=false" width="400" alt="GitHub Streak Stats" /><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sparsh0508&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="400" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sparsh0508&theme=radical&no-frame=false&no-bg=true&margin-w=4)
