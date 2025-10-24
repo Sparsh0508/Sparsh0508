@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **sparsh.agarwal0508@gmail.com** For Collaboration/Project 
 - 🔭 **I’m currently working on:** KrishiSaarthi
 - 🏛️ **I’m currently studying in:** GLA University
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** sparsh.agarwal0508@gmail.com
+- 📫 **College Email-Id:** sparsh.agarwal_cs23@gla.ac.in
 - 😄 **Pronouns:** Sparsh Agarwal
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
   
