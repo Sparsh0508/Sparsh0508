@@ -1,4 +1,9 @@
 # 💫 Hi 👋, I'm Sparsh Agarwal
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Fullstack+Dev+%7C+React+Enthusiast" alt="Typing SVG" />
+</div>
+
 **A passionate Developer || Cloud Engineer**
 
 Email Me 👉 ✉️ **sparsh.agarwal0508@gmail.com** For Collaboration/Project or Anything Else. 😊😊
