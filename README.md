@@ -32,9 +32,7 @@ Email Me 👉 ✉️ **sparsh.agarwal0508@gmail.com** For Collaboration/Project 
     </td>
     <td align="center">
       <h3>📊 GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=Sparsh0508&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="400" alt="GitHub Stats" /><br/>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Sparsh0508&theme=dark&hide_border=false" width="400" alt="GitHub Streak Stats" /><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sparsh0508&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="400" alt="Top Languages" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sparsh0508&theme=dark" width="800" />
     </td>
   </tr>
 </table>
