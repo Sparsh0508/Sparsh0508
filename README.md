@@ -1,37 +1,93 @@
-# 💫 Hi 👋, I'm Sparsh Agarwal
+<h1 align="center">Sparsh Agarwal</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Fullstack+Dev+%7C+React+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+Enthusiast;Cloud+Engineering+Focused" alt="Typing SVG" />
 </div>
 
-**A passionate Developer || Cloud Engineer**
+---
 
-Email Me 👉 ✉️ **sparsh.agarwal0508@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+## Professional Summary
 
-- 🔭 **I’m currently working on:** Movie Booking App
-- 🏛️ **I’m currently studying in:** GLA University
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **College Email-Id:** sparsh.agarwal_cs23@gla.ac.in
-- 😄 **Pronouns:** Sparsh Agarwal
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
-  
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sparsh_a_garwal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sparsh-agarwal-3852832b3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sparsh.agarwal0508@gmail.com) 
+I am a **Full-Stack Developer and Cloud Engineering enthusiast** with strong foundations in data structures, algorithms, and modern web development. I enjoy building scalable applications, solving complex problems, and working with cloud-based systems.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 🚀 My Coding Stats
+I am actively seeking opportunities to collaborate on impactful projects and contribute to open-source communities.
+
+---
+
+## Current Focus
+
+- **Project:** Movie Booking Application  
+- **University:** GLA University  
+- **Areas of Interest:** Full-Stack Development, Cloud Computing, System Design  
+- **Open To:** Internships, Collaborations, Open-Source Contributions  
+
+---
+
+## Contact Information
+
+- **Email:** sparsh.agarwal0508@gmail.com  
+- **University Email:** sparsh.agarwal_cs23@gla.ac.in  
+
+---
+
+## Social Profiles
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/sparsh-agarwal-3852832b3)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/sparsh_a_garwal)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sparsh.agarwal0508@gmail.com)
+
+---
+## Technical Skills
+
+### Programming Languages
+- **Java** – Object-Oriented Programming, DSA, Competitive Programming  
+- **JavaScript (ES6+)** – Asynchronous Programming, DOM Manipulation  
+- **Python** – Scripting, Problem Solving, Automation  
+
+### Frontend Development
+- **HTML5** – Semantic Markup, Accessibility Best Practices  
+- **CSS3** – Responsive Design, Flexbox, Grid  
+- **React.js** – Hooks, Context API, Component Architecture  
+- **React Native** – Cross-Platform Mobile Development  
+- **Tailwind CSS** – Utility-First Styling, Rapid UI Development  
+
+### Backend Development
+- **Node.js** – RESTful APIs, Middleware, Authentication  
+- **Express.js** – MVC Architecture, API Development  
+
+### Databases
+- **MongoDB** – Schema Design, Aggregation Pipeline  
+- **MySQL** – Relational Modeling, Complex Queries  
+
+### Cloud & DevOps
+- **Amazon Web Services (AWS)** – EC2, S3, IAM (Foundational Knowledge)  
+
+### Tools & Technologies
+- **Git & GitHub** – Version Control, Collaboration  
+- **Postman** – API Testing and Debugging  
+- **REST APIs** – Client–Server Architecture  
+
+### Core Computer Science
+- **Data Structures & Algorithms**  
+- **Object-Oriented Programming (OOP)**  
+- **Database Management Systems (DBMS)**  
+- **Operating Systems (OS) – Fundamentals**  
+- **Computer Networks – Basics**
+
+---
+
+## Coding Statistics
 
 <div align="center">
 
 <table>
   <tr>
     <td align="center">
-      <h3>🧠 LeetCode Stats</h3>
-      <img src="https://leetcard.jacoblin.cool/Sparsh_Agarwal_0508?theme=dark&font=Abel&ext=contest&radius=10&border=0" width="400" alt="LeetCode Stats" />
+      <h3>LeetCode</h3>
+      <img src="https://leetcard.jacoblin.cool/Sparsh_Agarwal_0508?theme=dark&font=Abel&ext=contest&radius=10&border=0" width="400" />
     </td>
     <td align="center">
-      <h3>📊 GitHub Stats</h3>
+      <h3>GitHub Activity</h3>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sparsh0508&theme=dark" width="800" />
     </td>
   </tr>
@@ -39,16 +95,34 @@ Email Me 👉 ✉️ **sparsh.agarwal0508@gmail.com** For Collaboration/Project 
 
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sparsh0508&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
 
-### ✍️ Random Dev Quote
+## Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sparsh0508/Sparsh0508/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## Developer Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+---
+
+## Top Contributed Repositories
+
 ![](https://github-contributor-stats.vercel.app/api?username=Sparsh0508&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sparsh0508&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+![](https://visitcount.itsvg.in/api?id=Sparsh0508&icon=0&color=0)
+
+</div>
+
+---
+
+*This profile README is designed to present a professional, recruiter-friendly overview of my technical skills and development activity.*
