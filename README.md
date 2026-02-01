@@ -16,7 +16,6 @@ I am actively seeking opportunities to collaborate on impactful projects and con
 
 ## Current Focus
 
-- **Project:** Movie Booking Application  
 - **University:** GLA University  
 - **Areas of Interest:** Full-Stack Development, Cloud Computing, System Design  
 - **Open To:** Internships, Collaborations, Open-Source Contributions  
